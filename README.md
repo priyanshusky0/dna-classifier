@@ -13,7 +13,7 @@ models/        → Trained Keras model (.keras) + scaler (Pickle)
 - Data: 1000 synthetic DNA sequences (500 human, 500 non-human)
 - Encoding: 3-mer frequency vector (64 features)
 - Model: Feedforward Neural Network using TensorFlow/Keras
-- Accuracy: ✅ 100% test accuracy on clearly separated synthetic data
+- Accuracy: 100% test accuracy on clearly separated synthetic data
 
 ##  How to Run
 
